@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Javiera Lasseube</h1>
+<h2 align="center">Hi 👋, I'm Javiera Lasseube</h2>
 <h3 align="center">A passionate full stack developer from Chile</h3>
 
 - 🌱 I’m currently learning **Docker and Python**
