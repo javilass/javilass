@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋, I'm Javiera Lasseube</h2>
-<h3 align="center">a passionate QA from Chile</h3>
 
 - 🌱 I’m currently learning **Python**
 
