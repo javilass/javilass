@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Javiera Lasseube</h2>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** 
 
-- 📫 How to reach me **javiera.lasseube@outlook.com**
+- 📫 How to reach me -> **javiera.lasseube@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
